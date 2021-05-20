@@ -1,3 +1,4 @@
+![d7e12b6d-5891-42c4-ae8d-63a1fa508005](https://user-images.githubusercontent.com/36500926/119038044-975d8700-b9aa-11eb-86ab-274aaf0dc1ec.jpg)
 # face-recognition-aws
 Face recognition using Amazon Web Service 
 Construction d'un miroir intelligent basé sur la reconnaissance faciale avec AWS Face recognition qui consiste a contrôler une maison et d'afficher plusieurs module comme les email et votre agenda etc
@@ -28,3 +29,5 @@ to disconnect the signal between hdmi and raspberry and os.system ("xset -displa
 -to change position of widget you have to change a class in css
 
 ![c9c00002-f55c-482f-b287-237c89822b2f](https://user-images.githubusercontent.com/36500926/119037530-fe2e7080-b9a9-11eb-9196-fc54463f88d5.jpg)
+
+![d7e12b6d-5891-42c4-ae8d-63a1fa508005](https://user-images.githubusercontent.com/36500926/119038101-a3e1df80-b9aa-11eb-9479-58442794c593.jpg)
